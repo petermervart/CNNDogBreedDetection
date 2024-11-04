@@ -4,7 +4,7 @@
 
 ## Important links
 
-Detailed explanation with visualizations in jupyter notebook: [Notebook](Zadanie_4.ipynb)
+Detailed explanation with visualizations in jupyter notebook: [Notebook](DogBreedClassification.ipynb)
 
 Stanford Dogs Dataset: [Dataset](https://www.kaggle.com/datasets/jessicali9530/stanford-dogs-dataset)
 
